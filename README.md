@@ -117,4 +117,6 @@ and also became a bit complex at some point. But in the end, if the given endpoi
 the ParkingManager entry. Some detailed explanation is necessary for the user that will maintain/populate the
 ParkingManager, which I regret, I think it could be simplified with more time to spend on the project.
 
+I spent around 12 hours on this project.
+
 I hope you will appreciate my work.
